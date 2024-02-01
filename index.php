@@ -8,7 +8,9 @@ $array_php = json_decode($json_string, true);
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
+    <title>Desarrollador PHP Junior en Lima, Perú | Currículum Vitae</title>
+    <meta name="description" content="Soy un desarrollador PHP Junior ubicado en Lima, Perú, con experiencia de 2 años. Contáctame para discutir oportunidades laborales o crear tu página web.">
+    <meta name="keywords" content="Josue Oblitas, Josue Manuel Oblitas Saldaña, desarrollador, PHP, Junior, Lima, Perú, página web">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="./assets/style.css">
   </head>

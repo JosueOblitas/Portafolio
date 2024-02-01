@@ -1,0 +1,17 @@
+{
+    "name": "administrador/josueoblitas.com",
+    "description": "Portafolio for Web",
+    "autoload": {
+        "psr-4": {
+            "Administrador\\JosueoblitasCom\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JosueOblitas"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}

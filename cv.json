@@ -1,0 +1,126 @@
+{
+    "basics": {
+      "name": "Josué Oblitas Saldaña",
+      "label": "Desarrollador FullStack",
+      "image": "https://avatars.githubusercontent.com/u/85196299?s=400&u=8dc5bac79ed59677ac6ab0d7a380f33615c0dcca&v=4",
+      "email": "josueoblitas15@gmail.com",
+      "phone": "+51 990 956 256",
+      "url": "https://josueoblitas.com",
+      "summary": "Con 2 años de experiencia en la traducción de requerimientos a software utilizando Laravel, así como en el diseño y desarrollo de sitios web con WordPress y tiendas virtuales con WooCommerce, con especial énfasis en la creación de temas personalizados. Resido en Lima, Perú, y mi enfoque profesional se ha centrado en satisfacer las necesidades específicas de los clientes mediante la implementación de soluciones web personalizadas y de alta calidad.",
+      "location": {
+        "address": "2712 Broadway St",
+        "postalCode": "CA 94115",
+        "city": "San Francisco",
+        "countryCode": "US",
+        "region": "California"
+      },
+      "profiles": [{
+        "network": "Twitter",
+        "username": "JosueeOblitas",
+        "url": "https://twitter.com/JosueeOblitas"
+      },{
+        "network": "Linkedin",
+        "username": "Josue Oblitas",
+        "url": "https://www.linkedin.com/in/josue-oblitas-483616150/"
+      },{
+        "network": "GitHub",
+        "username": "JosueOblitas",
+        "url": "https://github.com/JosueOblitas"
+      }]
+    },
+    "work": [{
+      "name": "HostingLabs",
+      "position": "Desarrollador PHP",
+      "url": "https://www.hostinglabs.net",
+      "startDate": "2022-03-01",
+      "endDate": "Actual",
+      "summary": "Como Desarrollador Web y Especialista en Soluciones Digitales, me especializo en crear tiendas virtuales y temas personalizados en WordPress, así como en desarrollar módulos para WHMCS. Además, diseño software interno para optimizar procesos de facturación, ventas y herramientas para los Administradores Cloud"
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Cibertec",
+      "url": "https://www.cibertec.edu.pe/",
+      "area": "Técnico en Computación e Informática",
+      "studyType": "Bachelor",
+      "startDate": "2021",
+      "endDate": "2024",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "SASS",
+        "JavaScript",
+        "JQuery",
+        "PHP",
+        "Bootstrap",
+        "Laravel",
+        "WordPress",
+        "Woocommerce",
+        "Mysql",
+        "Git",
+        "Github",
+        "React"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
